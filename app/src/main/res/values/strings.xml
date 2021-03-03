@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="username">Username</string>
+    <string name="foodie_app">Foodie App</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="_03_mar_2021_02_00_am">03 Mar 2021 02:00 AM</string>
+    <string name="ice_cream_sundae">Ice Cream Sundae</string>
+    <string name="_145_mall_of_india">145, Mall of India</string>
+    <string name="_520_reviews">520 reviews</string>
+    <string name="rs_180">Rs. 180</string>
+</resources>
